@@ -1,6 +1,6 @@
 [ReadMe.md](https://github.com/user-attachments/files/33262458/ReadMe.md)
 # 💫 About Me:
-🔭 I’m currently studying Çankaya University<br>🌱 I’m currently learning "C","C++"<br>
+🔭 I’m currently studying Çankaya University<br>🌱 I’m currently learning "C","C++" and "Python"<br>
 
 
 ## 🌐 Socials:
